@@ -1,0 +1,6 @@
+@book{neuman2014social,
+  title={Social Research Methods: Qualitative and Quantitative Approaches: Pearson New International Edition},
+  author={Neuman, W Lawrence},
+  year={2014},
+  publisher={Pearson Education Limited}
+}
